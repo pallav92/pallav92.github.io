@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Pallav 👋
 
-<!--
-**pallav92/pallav92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Android Engineer | 10.5+ years | Kotlin | Compose | System Design
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Android Developer with 10+ years experience
+- Built scalable apps & SDKs used by millions
+- Strong in MVVM, Clean Architecture, Coroutines
+- Experience leading teams & driving architecture
+
+---
+
+## 🧠 Tech Stack
+- Kotlin, Java
+- Jetpack Compose, XML
+- Coroutines, Flow
+- Hilt / Dagger
+- Retrofit, Room
+- System Design, Scalability
+
+---
+
+## ✍️ What I'm Exploring
+- Advanced Compose internals
+- Performance optimization
+- System design for mobile at scale
+
+---
+
+## 🤝 Let's Connect
+- LinkedIn: (https://www.linkedin.com/in/pa11av)
