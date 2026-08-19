@@ -1,11 +1,11 @@
 # Hi, I'm Pallav 👋
 
-Senior Android Engineer | 10.5+ years | Kotlin | Compose | System Design
+Senior Android Engineer | 11+ years | Kotlin | Compose | System Design
 
 ---
 
 ## 🚀 About Me
-- Android Developer with 10+ years experience
+- Android Developer with 11+ years experience
 - Built scalable apps & SDKs used by millions
 - Strong in MVVM, Clean Architecture, Coroutines
 - Experience leading teams & driving architecture
